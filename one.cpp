@@ -1,5 +1,11 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
+
+int hi()
+{
+	return 1;
+}
+int main()
+{
 	return 0;
 }
