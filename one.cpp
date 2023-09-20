@@ -5,7 +5,9 @@ int hi()
 {
 	return 1;
 }
-int main()
-{
+int bye(){
+	return 9;
+}
+int main(){
 	return 0;
 }
